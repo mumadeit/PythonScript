@@ -1,2 +1,2 @@
-title = "Hello, World"
+title = "Hello, World!"
 # This is a comment
